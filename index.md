@@ -1,6 +1,7 @@
 ---
 title: Notes of a Digital Old Man
 layout: home
+nav_order: 1
 ---
 
 I haven't read Charles Bukowski, don't plan on to in the near future. I'm just using this name because I think it's a cute name that fits what I want to write.
